@@ -7,7 +7,7 @@ assign an extreme value (0 or 255 in the context of pixel colour) to a variable.
 4) print and show the images 
 
 INPUT:
-Origina Image
+Original Image
 ![Image](https://github.com/Raffaele999/imageBinarization/assets/48949255/18e50bec-64c0-42b4-8fe0-7e1276c0f331)
 
 OUTPUT:
